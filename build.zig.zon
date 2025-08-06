@@ -1,0 +1,12 @@
+.{
+    .name = .pulseaudio,
+    .fingerprint = 0x73554b57c09ebc42,
+    .version = "0.0.0",
+    .minimum_zig_version = "0.14.1",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "test",
+    },
+}
